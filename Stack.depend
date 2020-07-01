@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588811347 source:d:\inpe\comp apl\gilberto\stack\stack\stack.cpp
+	"stack.hpp"
+	<algorithm>
+
+1588811148 d:\inpe\comp apl\gilberto\stack\stack\stack.hpp
+	<iostream>
+
+1588208064 source:d:\inpe\comp apl\gilberto\stack\stack\main.cpp
+	"stack.hpp"
+
